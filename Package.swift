@@ -8,13 +8,13 @@ import PackageDescription
 import AppleProductTypes
 
 let package = Package(
-    name: "Math",
+    name: "Mathsfortesting321",
     platforms: [
         .iOS("16.0")
     ],
     products: [
         .iOSApplication(
-            name: "Math",
+            name: "Mathsfortesting321",
             targets: ["AppModule"],
             teamIdentifier: "D4AKABKF9P",
             displayVersion: "1.1",
